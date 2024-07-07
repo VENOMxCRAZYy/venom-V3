@@ -1,0 +1,6 @@
+UserID: 1734901969 | Time: 2024-07-07 15:57:10.484982 | Command: /bgmi | Target: 20.198.111.205 | Port: 19616 | Time: 240
+Username: UserID: 1734901969
+Target: 20.198.111.205
+Port: 19616
+Time: 240
+
